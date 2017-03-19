@@ -1,0 +1,15 @@
+﻿<Window x:Class="Project_Darren.View_Help"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_Darren"
+        mc:Ignorable="d"
+        Title="View_Help" Height="569.502" Width="777.954">
+    <Grid Margin="0,0,13,41">
+        <TextBox x:Name="textBox" Height="372" Margin="10,0,10,42" TextWrapping="Wrap" Text="To Begin, you can either click on File &gt; Open to open a database of animals, or you can click on Edit &gt; Add to start a new database.&#xD;&#xA;&#xA;You can select different animals in the database by clicking on the previous and next buttons.&#xD;&#xA;&#xA;You can edit the selected animal  by pressing the edit button and changing the information on the form. &#xD;&#xA;&#xA;Press the save button to save changes, or go to File &gt; Save or File &gt; Save As, depending on if you want to save to the existing file, or a new one. If you are not using an existing file, both the save button and the File &gt; Save item will act as Save As usually does.&#xD;&#xA;&#xA;To close the program, simply click on File &gt; Close &#xD;&#xA;&#xA;If you click on edit you will see the option to add an animal into the database. When you click on add, an animal will be added to the form. You can edit this information and save it to the database by ensuring edit is enabled and clicking on save once changes are made.&#xA; &#xD;&#xA;Other edit options allow you to cut and copy. Simply select cut or copy, click next or previous to the required position, and click edit &gt; paste. The animal which was cut/copied will be pasted into the current position.&#xD;&#xA;&#xD;&#xA;You can also delete the currently selected animal by clicking on edit &gt; delete.&#xD;&#xA;&#xA;Under view, you can search for animal by Class, Order and Family. This will open a new window which allows you to search for all of the animals within the database with the same class, order or family. &#xD;&#xA;&#xA;View also allows you to sort animals by Class, Order and Family. To do this click on view &gt; sort &gt; class/order/family. The animals will be sorted alphabetically in ascending order.&#xD;&#xA;&#xD;&#xA;You can also easily redisplay the initial form by clicking on view &gt; Redisplay.&#xD;&#xA;&#xD;&#xA;Click on help &gt; about to see information regarding the authors of this program." VerticalAlignment="Bottom" VerticalScrollBarVisibility="Visible" TextChanged="textBox_TextChanged"/>
+        <TextBox x:Name="Help" HorizontalAlignment="Left" Height="39" Margin="349,10,0,0" TextWrapping="Wrap" Text="Help" VerticalAlignment="Top" Width="73" FontSize="24" BorderThickness="0"/>
+        <Button x:Name="button" Content="Close" HorizontalAlignment="Left" Margin="322,456,0,0" VerticalAlignment="Top" Width="142" Height="29" Click="button_Click"/>
+    </Grid>
+
+</Window>

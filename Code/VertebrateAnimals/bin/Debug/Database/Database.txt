@@ -1,0 +1,131 @@
+Mammal
+Irish Elk
+Megaloceros
+Deer
+Even-toed ungulate
+210
+580000
+Extinct
+IrishElk.jpg
+12/10/2016 07:30:39
+13/12/2016 16:41:56
+
+Bird
+Great Auk
+Pinguinis
+Auk
+Charadriiformes
+80
+5000
+Extinct
+GreatAuk.jpg
+12/10/2016 07:30:39
+12/10/2016 07:30:39
+
+Mammal
+Red Deer
+Cervus
+Deer
+Even-toed ungulate
+210
+200000
+Least Concerned
+RedDeer.jpg
+12/10/2016 07:30:39
+12/10/2016 07:30:39
+
+Reptile
+Viviparous lizard
+Zootoca
+Lacertidae
+Squamata
+10
+15
+Least Concerned
+ViviparousLizard.jpg
+12/10/2016 07:30:39
+12/10/2016 07:30:39
+
+Amphibian
+Natterjack toad
+Bufo
+True Toad
+Frog
+6
+10
+Least Concerned
+NatterjackToad.jpg
+12/10/2016 07:30:39
+12/10/2016 07:30:39
+
+Fish
+Brown Trout
+Salmo
+Salmonidae
+Salmoniformes
+60
+40000
+Least Concerned
+BrownTrout.jpg
+12/10/2016 07:30:39
+12/10/2016 07:30:39
+
+Reptile
+Green Sea Turtle
+Chelonia
+Cheloniidae
+Turtle
+100
+100000
+Threatened
+GreenSeaTurtle.jpg
+12/10/2016 07:30:39
+12/10/2016 07:30:39
+
+Amphibian
+Common Frog
+Rana
+True Frog
+Frog
+8
+22
+Least Concerned
+CommonFrog.jpg
+12/10/2016 07:30:39
+12/10/2016 07:30:39
+
+Fish
+European Eel
+Anguillidae
+Anguillidae
+Eel
+70
+3600
+Least Concerned
+EuropeanEel.jpg
+12/10/2016 07:30:39
+12/10/2016 07:30:39
+
+Bird
+EurasianWren
+Troglodytes
+Wren
+Passerine
+8
+9
+Least Concerned
+EurasianWren.jpg
+12/10/2016 11:12:12
+12/10/2016 11:12:12
+
+Mammal
+Mountain Hare
+Hare
+Leporidae
+Lagomorpha
+80
+90
+Least Concerned
+MountainHare.jpg
+12/10/2016 11:12:12
+12/10/2016 11:12:12
