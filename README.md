@@ -5,7 +5,7 @@ This is a wpf form made using C#, LINQ, XAML and the .NET framework.
 See Readme file in the zip folder for more information.
 
 How do I run the program?
-1.	With Visual Studio – Open, Code>Project Darren.sln. Then, press f5 to run.
+1.	With Visual Studio â€“ Open, Code>Project Darren.sln. Then, press f5 to run.
 2.	Without Visual Studio - Simply double click on the executable file short-link in the Animal Vertebrates file.
 3. 	Alternatively, use another IDE to view the code.
 
@@ -20,3 +20,5 @@ The exemplar database file is located in Animal Vertebrates>Code>Project Darren>
 
 What parts of the program am I responsible for?
 I am responsible for most of the program, apart from the portion under View which was coded by my colleague.
+
+<i>Created November 2016</i>
